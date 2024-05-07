@@ -73,6 +73,6 @@ public class Articulo {
     
     //hola esto es una prueba para GitHub
     
-    //subido al octogato
+    //Subido al octogato
     
 }
