@@ -71,4 +71,6 @@ public class Articulo {
     private double precio;
     private int tasaIva;
     
+    //hola papus
+    
 }
